@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Untitled (How does it feel?)</title>
+    <artist>D'Angelo</artist>
+    <album>Voodoo</album>
+    <link>https://www.youtube.com/watch?v=6QPQtguRdDs</link>
+  </track>
+  <track>
+    <title>Hyperballad</title>
+    <artist>Bjork</artist>
+    <album>Post</album>
+    <link>https://www.youtube.com/watch?v=kye1TOlAWWw</link>
+  </track>
+   <track>
+    <title>Death of an Executioner</title>
+    <artist>Pierce the Veil</artist>
+    <album>The Jaws of Life</album>
+    <link>https://youtu.be/e1NTuRAqp4I?si=ubxELIO-4AnAE_J6</link>
+  </track>
+</playlist>
