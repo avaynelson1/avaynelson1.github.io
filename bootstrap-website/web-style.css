@@ -1,0 +1,116 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #00243e;
+}
+
+
+.hero-bleed {
+  background-color: #f8f9fa;
+  padding: 80px 20px 80px;
+
+  width: 100%;
+  text-align: center;
+
+  margin: 0;
+
+  position: relative;
+}
+
+.hero-name {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
+
+  font-size: clamp(6rem, 18vw, 18rem);
+  line-height: 0.85;
+
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+
+  color: #00243e;
+
+  margin: 0;
+  max-width: 100%;
+}
+
+.hero-subhead {
+  letter-spacing: 0.95em;
+  font-size: clamp(0.6rem, 2vw, 1.5rem);
+  margin-top: 10px;
+  color: #2d1c03;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+section {
+  width: 100%;
+}
+
+.hero-intro {
+  background-color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero-intro-text {
+  max-width: 700px;
+  margin: 0 auto;
+
+  color: #000;
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 1.4rem;
+  opacity: 0.85;
+}
+
+.project-section {
+  background-color: white;
+}
+
+.icon-card {
+  display: block;
+  text-decoration: none;
+
+  color: black;
+  background-color: #f8f9fa;
+
+  border-radius: 12px;
+  padding: 40px;
+
+  transition: all 0.3s ease;
+}
+
+.icon-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+
+  gap: 20px;
+  text-align: right;
+}
+
+.icon-content i {
+  font-size: 2.5rem;
+  flex-shrink: 0;
+}
+
+.text-content h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.text-content p {
+  margin: 5px 0 0;
+  font-size: 0.95rem;
+  opacity: 0.8;
+}
+
+.icon-card:hover {
+  background-color: #2d1c03;
+  color: white;
+  transform: translateY(-5px);
+}
