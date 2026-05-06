@@ -120,3 +120,27 @@ section {
   overflow: hidden;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
+
+.story-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.story-intro {
+  font-size: 1.1rem;
+}
+
+.writing-box {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+
+  font-family: Georgia, serif;
+  font-size: 1.0rem;
+
+  text-align: justify;
+
+  background-color: #f8efe2;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
