@@ -114,3 +114,8 @@ section {
   color: white;
   transform: translateY(-5px);
 }
+
+.carousel-shadow {
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
