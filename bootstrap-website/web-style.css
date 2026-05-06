@@ -148,3 +148,28 @@ section {
 .story-blood-wording {
   color: #85200c;
 }
+
+.image-section {
+  padding: 80px 20px;
+}
+
+.image-column {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.image-column img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.image-column p {
+  text-align: center;
+  opacity: 0.8;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+}
+
