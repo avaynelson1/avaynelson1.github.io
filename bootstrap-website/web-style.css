@@ -155,7 +155,7 @@ section {
 
 .image-column {
   background-color: #f8f9fa;
-  padding: 20px;
+  padding: 15px;
   border-radius: 5px;
   height: 100%;
 }
@@ -173,3 +173,9 @@ section {
   font-size: 0.95rem;
 }
 
+.WC-video {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+}
